@@ -1,2 +1,5 @@
 # Jogo-das-freiras
-Jogo de freira em python
+Jogo das freiras em python
+
+
+Somente execute o código e teste seu conhecimento lógico para resolver o problema!!
